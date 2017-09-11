@@ -7,7 +7,7 @@ Using IntelliJ Java IDE:  File Open  >> Choose pom.xml >> Open As Project
 
 Navigate to /src/mainjava/com/iterable/csvReader
 
-On line 23 and 24, you will see a placeholder to add the path of the 2 csv files- found in src/main/resources
+On line 23 and 24, you will see a placeholder to add the path of the 2 csv files- found in src/main/resources..../././
 On line 85 and 91, you will see a placeholder to add your API_Key as a query param.
 
 Right click IDE editor and Run project.  
